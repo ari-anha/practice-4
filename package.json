@@ -1,0 +1,25 @@
+{
+  "name": "practice-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ari-anha/practice-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ari-anha/practice-4/issues"
+  },
+  "homepage": "https://github.com/ari-anha/practice-4#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
